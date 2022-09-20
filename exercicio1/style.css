@@ -1,5 +1,10 @@
-#texto-fonte-root{
+* {
+    margin: 0;
+    padding: 0;
+}
 
+#texto-fonte-root{
+    font-size: ;
 }
 
 #texto-paddings-verticais{
@@ -21,7 +26,7 @@
 }
 
 #fonte-setenta{
-
+    font-size: 0.7em;
 }
 
 #comprimento-pai{
